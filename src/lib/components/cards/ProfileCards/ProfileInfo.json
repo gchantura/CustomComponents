@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "Name": "გიორგი ჭანტურია",
+        "Position": "დეველოპერი",
+        "Facebook": "https://www.facebook.com/",
+        "Instagram": "https://www.instagram.com/",
+        "Github": "https://www.github.com/",
+        "Linkedin": "https://www.linkedin.com/",
+        "ImageSrc": "./Images/GiorgiTchanturia.jpeg"
+    },
+    {
+        "id": 2,
+        "Name": "თაკო ჭანტურია",
+        "Position": "დიზაინერი",
+        "Facebook": "https://www.facebook.com/",
+        "Instagram": "https://www.instagram.com/",
+        "Github": "https://www.github.com/",
+        "Linkedin": "https://www.linkedin.com/",
+        "ImageSrc": "./Images/GiorgiTchanturia.jpeg"
+    }
+]
